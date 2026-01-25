@@ -2,13 +2,12 @@
 // As we iterate, we'll wire this to real indexers, explorers, and DVN-native data.
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Placeholder: simulate loading state, then fake values
   simulateMarketData();
 });
 
 /**
  * Temporary mock function.
- * Replace with real API calls (GeckoTerminal, custom indexer, DVN explorer, etc.).
+ * Replace with real API calls (GeckoTerminal, Raydium, DVN indexer).
  */
 function simulateMarketData() {
   const priceEl = document.getElementById("price");
@@ -18,12 +17,11 @@ function simulateMarketData() {
 
   if (!priceEl || !volumeEl || !holdersEl || !marketcapEl) return;
 
-  // Simulate async load
   setTimeout(() => {
-    priceEl.textContent = "$0.0000 — live soon";
-    volumeEl.textContent = "Live 24h volume coming soon";
-    holdersEl.textContent = "Holder count syncing with indexers";
-    marketcapEl.textContent = "Market cap will appear as data propagates";
+    priceEl.textContent = "$0.0000 — syncing soon";
+    volumeEl.textContent = "Live 24h volume syncing";
+    holdersEl.textContent = "Holder count syncing";
+    marketcapEl.textContent = "Market cap syncing";
   }, 800);
 }
 
