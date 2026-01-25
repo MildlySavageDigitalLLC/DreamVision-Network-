@@ -78,4 +78,4 @@ This ensures a fully trustless, non‑ruggable liquidity foundation.
 DreamVision Network is built to outlive its founder.  
 Every artifact, every commit, and every ceremony is designed to empower future creators and contributors.
 
-Welcome to the future of decentralized media.
+Welcome to the future of decentralized social technology.
