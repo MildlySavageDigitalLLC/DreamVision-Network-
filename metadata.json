@@ -1,0 +1,15 @@
+{
+  "name": "DreamVision Network",
+  "symbol": "DREAM",
+  "description": "DREAM is a sovereign SPL token built on the Solana blockchain, powering the DreamVision Network Protocol and its ecosystem of decentralized applications. With a fixed supply and revoked mint authority, DREAM represents trustless ownership, long-term vision, and ceremonial integrity. It serves as the foundational asset for protocol governance, liquidity provisioning, and community engagement across all layers of the DreamVision architecture.",
+  "image": "https://raw.githubusercontent.com/MildlySavageDigitalLLC/DreamVision-Network-/main/logo.png",
+  "external_url": "https://mildlysavagedigitalllc.github.io/DreamVision-Network-/",
+  "extensions": {
+    "website": "https://mildlysavagedigitalllc.github.io/DreamVision-Network-/",
+    "tokenomics": "https://mildlysavagedigitalllc.github.io/Tokenomics_Repo_DreamVision/",
+    "explorer": "https://mildlysavagedigitalllc.github.io/Explorer_Repo_DreamVision/",
+    "github_main": "https://github.com/MildlySavageDigitalLLC/DreamVision-Network-",
+    "github_tokenomics": "https://github.com/MildlySavageDigitalLLC/Tokenomics_Repo_DreamVision",
+    "github_explorer": "https://github.com/MildlySavageDigitalLLC/Explorer_Repo_DreamVision"
+  }
+}
