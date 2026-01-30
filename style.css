@@ -17,6 +17,7 @@ body {
   line-height: 1.6;
   scroll-behavior: smooth;
   position: relative;
+  padding-top: 60px; /* space for fixed navbar */
 }
 
 /* SHOOTING STAR */
@@ -72,7 +73,6 @@ body {
   padding: 16px 20px;
   font-family: 'Orbitron', sans-serif;
   border-bottom: 2px solid #444;
-  margin-top: 60px; /* fixed overlap with navbar */
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
