@@ -16,6 +16,37 @@ Every component of the network is engineered with transparency, ceremony, and lo
 
 ---
 
+# 🌕 DREAM Staking — Now Live
+
+DREAM Staking is officially live on Solana.
+
+Stake your DREAM tokens and earn rewards from the long-term, founder-funded reward pool designed to last until the year **2140**.
+
+### 🔗 Staking Dashboard  
+https://stake.smithii.io/dreamstaking
+
+### 📈 APR  
+**Up to ~4.38% APR**  
+APR increases if fewer tokens are staked.
+
+### 💰 Reward Pool  
+**50,000,000 DREAM**  
+Locked permanently inside the staking contract.
+
+### 🔒 Lock Time  
+**1 day**  
+Unstake anytime after 24 hours. No penalties. No cooldowns.
+
+### 🧱 Founder Commitment  
+The founder has staked **50,000,000 DREAM** to anchor the system and demonstrate long-term commitment.
+
+---
+
+# 🌙 DreamVision Network  
+A sovereign, trustless, community-driven protocol built for the long haul.
+
+Explore the full protocol, transparency reports, tokenomics, and ecosystem below.
+
 ## 💧 Liquidity Pool
 
 - **DEX:** Raydium  
