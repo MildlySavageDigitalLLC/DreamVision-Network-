@@ -1,5 +1,28 @@
 # 🏰👁️DreamVisionNetwork — L1 Blockchain Protocol
 
+---
+
+## ⚠️ Security & Well‑Being Notice
+
+The DreamVision Network and its brands will never ask, call, or email you for anything unsolicited or request your personal information.  
+Please stay mindful of scams and only interact with our **official GitHub repositories**, **official websites**, and **verified affiliate links**.  
+**Protect your assets. Don’t get scammed.**
+
+---
+
+## 🤍 A Message From the Founder
+
+Also remember to take mental breaks from technology and artificial intelligence interaction.  
+It’s okay to step away, breathe, get some sun, enjoy family and friends, and live your life.  
+This technology will still be here tomorrow — and long after we’re gone.  
+I say that with love.
+
+**Founder & CEO**  
+**Tony Lamont**  
+**Mildly Savage Digital LLC**
+
+---
+
 **DreamVision Network (DREAM)** is a sovereign, open source mobile‑first Layer 1 blockchain designed for creators, builders, and decentralized media ecosystems.  
 Every component of the network is engineered with transparency, ceremony, and long‑term trust at its core.
 
